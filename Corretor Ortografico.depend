@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1574652026 source:c:\users\nicolas\desktop\corretor ortografico\corretor ortografico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574653461 source:c:\users\edson\desktop\corretor ortografico\corretor ortografico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574737233 source:c:\users\nicolas\desktop\corretor ortografico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
